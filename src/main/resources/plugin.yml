@@ -1,0 +1,11 @@
+name: A_TeamChat
+version: @version@
+main: org.aoichaan0513.a_teamchat.Main
+authors: [Aoichaan0513]
+website: https://aoichaan0513.jp
+
+commands:
+  team:
+    aliases:
+      - g
+      - t
